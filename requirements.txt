@@ -2,5 +2,5 @@ geemap
 ee
 geopandas
 pandas
-matplotlib.pyplot
+matplotlib
 numpy
