@@ -7,6 +7,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
+    "import streamlit as st\n",
     "import geemap\n",
     "import ee\n",
     "import os\n",
