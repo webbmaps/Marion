@@ -1,0 +1,7 @@
+geemap
+ee
+os
+geopandas
+pandas
+matplotlib.pyplot
+numpy
