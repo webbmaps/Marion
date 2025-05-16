@@ -1,7 +1,0 @@
-geemap
-ee
-geopandas
-pandas
-matplotlib
-numpy
-streamlit
